@@ -70,7 +70,7 @@ a{
     border: 2px solid transparent;
 }
 .search-select:hover{
-    border: 2px solid rgb(245, 199, 14);
+    border: 2px solid rgb(14, 14, 10);
 }
 .search-input{
     width: 400px;
@@ -81,6 +81,15 @@ a{
     width: 25px;
     border-radius: 0px 5px 5px 0px;
 }
+.search-icon:hover{
+    border: 2px solid rgba(245, 199, 14, 0.684);
+    background-color: #ff9c11;
+}
 .nav-signin{
     font-size: 0.85rem;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+.nav-signin:hover{
+    border: 2px solid  rgb(230, 165, 14);
 }
