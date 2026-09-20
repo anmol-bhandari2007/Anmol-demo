@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Form</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="validate.js"></script>
+</head>
+<body>
+    <div class="form-container">
+        <h2>Registration Form</h2>
+        <form name="regForm" action="register.php" method="post" onsubmit="return validateForm()">
+            <label>Name:</label>
+            <input type="text" name="name"><br><br>
+
+            <label>Email:</label>
+            <input type="text" name="email"><br><br>
+
+            <label>ID:</label>
+            <input type="text" name="userid"><br><br>
+
+            <label>Password:</label>
+            <input type="password" name="password"><br><br>
+
+            <label>Contact:</label>
+            <input type="text" name="contact"><br><br>
+
+
+            <label>Country:</label>
+            <input type="text" name="country"><br><br>
+
+            <input type="submit" value="Register">
+        </form>
+    </div>
+</body
+</html>
