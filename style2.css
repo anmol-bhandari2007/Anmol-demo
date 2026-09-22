@@ -1,0 +1,14 @@
+.footer{
+    color: aliceblue;
+    height: 350px;
+    background-color: rgb(35, 35, 35);
+}
+.footer-sec{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px 0px 0px 10px;
+}
+.contact:hover{
+    color: yellow;
+
+}
