@@ -1,0 +1,45 @@
+.price{
+      color: red;
+    padding-left: 6px;
+    padding-top: 5px;
+}
+.box-img-1 {
+    background-image:url(https://m.media-amazon.com/images/I/71DNRKI7ClL.jpg) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img-2 {
+    background-image:url(https://tse2.mm.bing.net/th/id/OIP.BnZumVDBLxL0dtgOFqFfpAHaGa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img-3 {
+    background-image:url(https://tse1.mm.bing.net/th/id/OIP.Tu_r_kTUeSibcGyj7A31jAAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img-4 {
+    background-image:url(https://tse1.mm.bing.net/th/id/OIP.aPoSFRy2Ku-LqRmGt_WHcAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img-5 {
+    background-image:url(https://tse2.mm.bing.net/th/id/OIP.IxCjXTlxvzGgs3lHKOlUSgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img-6 {
+    background-image:url(https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/103/MTA-50149857/lenovo_lenovo-flip-2-in-1-flex-5-14iau7-2cid-cloud-grey-core-i3-1215u_full01.jpg) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img-7 {
+    background-image:url(https://in.store.asus.com/media/catalog/product/t/p/tp3407sa-ql024ws_with_stylus.jpg) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img-8 {
+    background-image:url(https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell-pro-7/p703265/media-gallery/fpr-wlan-fhd-ir-camera/notebook-7-p703265-2-in-1-fpr-wlan-fhd-ir-camera-gray-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=907&qlt=100,1&resMode=sharp2&size=907,804&chrss=full) ;
+    background-size: cover;
+     height: 260px;
+}
