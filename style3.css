@@ -1,0 +1,79 @@
+/* shop section for gaming */
+.price{
+    color: red;
+    padding-left: 6px;
+    padding-top: 5px;
+}
+
+.box-imga {
+    background-image:url(https://p3-ofp.static.pub/fes/cms/2024/09/25/p8etaugfh3439x6j067j1kb0hjom2o483441.png) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-imgb {
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.duwodKhpE9KHTYJvnPy1PQHaE9?r=0&rs=1&pid=ImgDetMain&o=7&rm=3);
+     background-size: cover;
+     height: 260px;
+
+}
+.box-imgc {
+    background-image: url(https://www.sysnodools.com.mx/web/image/product.product/1416/image_1024/HP%20Victus%2015-fa1006la%20Core%20i5%2012th%20Gen%20%7C%2016GB%20RAM%20%7C%20512GB%20SSD%20%7C%20RTX%202050%204GB?unique=59b1270);
+     background-size: cover;
+     height: 260px;
+
+}
+.box-imgd {
+    background-image: url(https://tse2.mm.bing.net/th/id/OIP.EhZu77aXq4X7dsvGeR9zUAHaFc?r=0&rs=1&pid=ImgDetMain&o=7&rm=3);
+     background-size: cover;
+     height: 260px;
+
+}
+.box-imge {
+    background-image: url(https://laptopsexplained.com/wp-content/uploads/2024/12/lenovo-legion-5-16irx9.jpg);
+     background-size: cover;
+     height: 260px;
+
+}
+.box-imgf {
+    background-image: url(https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6548/6548358_sd.jpg);
+     background-size: cover;
+     height: 260px;
+
+}
+.box-imgg {
+    background-image: url();
+     background-size: cover;
+     height: 260px;
+
+}
+.box-imgh {
+    background-image: url();
+     background-size: cover;
+     height: 260px;
+
+}
+.box-imgi {
+    background-image: url();
+     background-size: cover;
+     height: 260px;
+
+}
+.box-imgj {
+    background-image: url();
+     background-size: cover;
+     height: 260px;
+
+} 
+.box-imgk {
+    background-image: url();
+     background-size: cover;
+     height: 260px;
+
+}
+.box-imgl {
+    background-image: url();
+     background-size: cover;
+     height: 260px;
+
+}
+

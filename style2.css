@@ -1,6 +1,6 @@
 .footer{
     color: aliceblue;
-    height: 350px;
+    height: 380px;
     background-color: rgb(35, 35, 35);
 }
 .footer-sec{
@@ -11,4 +11,8 @@
 .contact:hover{
     color: yellow;
 
+}
+.copyright{
+    padding-left: 50%;
+    padding-top: 20px;
 }
