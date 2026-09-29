@@ -1,0 +1,45 @@
+.price{
+    color: red;
+    padding-left: 6px;
+    padding-top: 5px;
+}
+.box-img001 {
+    background-image:url(https://tse4.mm.bing.net/th/id/OIP.aUz01atTsnW1gGcK3WiYIgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img002 {
+    background-image:url(https://tse4.mm.bing.net/th/id/OIP.pEyALEbnkZNpYR3GBcm8BAHaHa?r=0&w=1080&h=1080&rs=1&pid=ImgDetMain&o=7&rm=3) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img003 {
+    background-image:url(https://tse4.mm.bing.net/th/id/OIF.8DepOluxX6B4V3rUgnu96g?r=0&rs=1&pid=ImgDetMain&o=7&rm=3) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img004 {
+    background-image:url(https://images.samsung.com/is/image/samsung/assets/hk_en/galaxy-book4/galaxy-book4-360/GB4_360_Product-KV_hk_mo.jpg?imbypass=true) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img005 {
+    background-image:url(https://brain-images-ssl.cdn.dixons.com/8/8/10252988/l_10252988.jpg) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img006 {
+    background-image:url(https://images.samsung.com/is/image/samsung/assets/hk_en/galaxy-book/buy/GalaxyBook_Pro360_Silver_ProductKV_Dynamic_MO_img.jpg?imbypass=true) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img007 {
+    background-image:url(https://kijero.com/media/catalog/product/cache/a0f4729109ce0d708bfa757fa4409fd8/n/p/np964xgl-xg1us.jpg) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img008 {
+    background-image:url(https://www.compeve.com/images/365100143613/compeve-samsung-galaxy-chromebook-go-14-xe340xda-ka1us-b_04.jpg) ;
+    background-size: cover;
+     height: 260px;
+}
