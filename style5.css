@@ -1,0 +1,54 @@
+.price{
+    color: red;
+    padding-left: 6px;
+    padding-top: 5px;
+}
+
+.box-img01 {
+    background-image:url(https://tse4.mm.bing.net/th/id/OIP.RMOC5jvA8qBaEPUAvDdtVQHaHa?r=0&w=1500&h=1500&rs=1&pid=ImgDetMain&o=7&rm=3) ;
+    background-size: cover;
+     height: 260px;
+}
+.box-img02 {
+    background-image: url(https://tse4.mm.bing.net/th/id/OIP.v_FAl8SRtDoD6-58j1rPyQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3);
+     background-size: cover;
+     height: 260px;
+
+}
+.box-img03 {
+    background-image: url(https://media.karousell.com/media/photos/products/2025/6/19/macbook_air_m4_chip_256gb_1750347992_0417a8bd.jpg);
+     background-size: cover;
+     height: 260px;
+
+}
+.box-img04 {
+    background-image: url(https://imad.pl/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/a/macbook_air_15-in_m5_midnight_pdp_image_position_1__pl-pl.jpg);
+     background-size: cover;
+     height: 260px;
+
+}
+.box-img05 {
+    background-image: url(https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/bTZgt5yMDe-macbook-pro-m4-494493350-i-1-1200wx1200h.jpeg);
+     background-size: cover;
+     height: 260px;
+
+}
+.box-img06 {
+    background-image: url(https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/bTZgt5yMDe-macbook-pro-m4-494493350-i-1-1200wx1200h.jpeg);
+     background-size: cover;
+     height: 260px;
+
+}
+.box-img07 {
+    background-image: url(https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/bTZgt5yMDe-macbook-pro-m4-494493350-i-1-1200wx1200h.jpeg);
+     background-size: cover;
+     height: 260px;
+
+}
+.box-img08 {
+    background-image: url(https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/bTZgt5yMDe-macbook-pro-m4-494493350-i-1-1200wx1200h.jpeg);
+     background-size: cover;
+     height: 260px;
+
+}
+
