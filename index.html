@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> AB Calculator</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css" integrity="sha512-QeR2VH+lsBE5LSAe1Q5EnTBbe7XTBubt8dG93Y7gidSgdMCr8nVqKcfKAMyN96SV8KDbZVTDXChatu5G2KQGzg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <script src="cal.js"></script>
+</head>
+<body>
+    <div class="calculator">
+        <input type="text" class="display" id="display" disabled>
+        <div class="button-div1">
+            <button id="c" onclick="clearvalue('C')">C</button>
+            <button class="operator" onclick="deletevalue()"><i class="fa-solid fa-delete-left"></i></button>
+            <button class="numbers" onclick="appendvalue('00')">00</button>
+            <button class="numbers" onclick="appendvalue('0')">0</button>
+         </div>
+             <div class="button-div2">
+            <button class="operator" onclick="appendvalue('+')">+</button>
+            <button class="numbers" onclick="appendvalue('7')">7</button>
+            <button class="numbers" onclick="appendvalue('8')">8</button>
+            <button class="numbers" onclick="appendvalue('9')">9</button>
+         </div>
+            <div class="button-div3">
+            <button class="operator" onclick="appendvalue('-')">-</button>
+            <button class="numbers" onclick="appendvalue('4')">4</button>
+            <button class="numbers" onclick="appendvalue('5')">5</button>
+            <button class="numbers" onclick="appendvalue('6')">6</button>
+            </div>
+
+            <div class="button-div4">
+            <button class="operator" onclick="appendvalue('x')">x</button>
+            <button class="numbers" onclick="appendvalue('1')">1</button>
+            <button class="numbers" onclick="appendvalue('2')">2</button>
+            <button class="numbers" onclick="appendvalue('3')">3</button>
+            </div>
+            <div class="button-div5">
+            <button class="operator" onclick="appendvalue('/')"><i class="fa-solid fa-divide"></i> </button>
+            <button class="operator" onclick="appendvalue('.')">.</button>
+            <button class="equal" onclick="calculate()">=</button>
+        </div>
+    </div>
+</body>
+</html>
