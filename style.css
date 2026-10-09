@@ -31,6 +31,7 @@ body{
     font-size: 25px;
     background-color:#2d2d3a;
     color: white;
+    padding: 10px;
 
 }
 button{
@@ -74,4 +75,22 @@ background-color: #2d2d2d59;
 }
 i{
     height: 10px;
+}
+.head{
+    display: flex;
+    justify-content:;
+    color: white;
+    margin-bottom: 15px;
+}
+p{
+    font-size: 0.8rem;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    color: grey;
+}
+.solar{
+    margin-left:70px ;
+    width: 135px;
+    border-radius: 8px;
+    background-color: #2d2d2d; 
 }
