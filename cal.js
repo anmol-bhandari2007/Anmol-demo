@@ -1,8 +1,4 @@
-function cal(){
 
-
-    let display = document.getElementById("display");
-}
 function appendvalue(value){
     if(display.value=="Error"){
         display.value="";
@@ -22,6 +18,6 @@ function calculate(){
     try{
         display.value= eval(display.value);
     } catch{
-        display.value="Error"
+        display.value="Error";
     }
 }
